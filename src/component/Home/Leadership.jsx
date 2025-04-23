@@ -6,7 +6,7 @@ import second from "../../assets/second.jpg";
 import third from "../../assets/third.jpg";
 const Leadership = () => {
   return (
-    <div className="w-full bg-white  mt-16">
+    <div className="w-full bg-white  mt-16 p-2">
       <div className="max-w-6xl mx-auto ">
         <h1 className="uppercase text-black font-medium text-xl">LEADERSHIP</h1>
         <div className=" grid grid-cols-1 md:grid-cols-3 gap-6 mt-4">

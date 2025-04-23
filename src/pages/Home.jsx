@@ -7,6 +7,7 @@ import Paralax from "../component/Home/Paralax";
 import About from "../component/Home/About";
 import Sponsor from "../component/Home/Sponsor";
 import Leadership from "../component/Home/Leadership";
+import FooterTop from "../component/Home/FooterTop";
 
 const Home = () => {
   return (
@@ -19,6 +20,7 @@ const Home = () => {
       <Paralax />
       <Sponsor />
       <Leadership />
+      <FooterTop />
     </div>
   );
 };
