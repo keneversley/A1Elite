@@ -1,9 +1,5 @@
 import React from "react";
-import first from "../../assets/firstImage.jpg";
 
-import second from "../../assets/second.jpg";
-
-import third from "../../assets/third.jpg";
 const Leadership = () => {
   return (
     <div className="w-full bg-white  mt-16 p-2">
@@ -11,7 +7,7 @@ const Leadership = () => {
         <h1 className="uppercase text-black font-medium text-xl">LEADERSHIP</h1>
         <div className=" grid grid-cols-1 md:grid-cols-3 gap-6 mt-4">
           <div className="bg-gray-200 rounded-lg p-4">
-            <img src={first} alt="" />
+            <img src="https://globalasset1.s3.us-east-2.amazonaws.com/A1elite/DSC02272-Enhanced-NR.jpg" />
             <div className="flex flex-col justify-center items-center mt-6">
               <p className="text-gray-600  text-center  ">
                 <span className="text-xl text-black  uppercase">
@@ -29,7 +25,7 @@ const Leadership = () => {
             </div>
           </div>
           <div className="bg-gray-200 rounded-lg p-4">
-            <img src={second} alt="" />
+            <img src="https://globalasset1.s3.us-east-2.amazonaws.com/A1elite/DSC03296-Enhanced-NR.jpg" />
             <div className="flex flex-col justify-center items-center mt-6">
               <p className="text-gray-600  text-center  ">
                 <span className="text-xl text-black  uppercase">
@@ -47,7 +43,7 @@ const Leadership = () => {
             </div>
           </div>
           <div className="bg-gray-200 rounded-lg p-4">
-            <img src={third} alt="" />
+            <img src="https://globalasset1.s3.us-east-2.amazonaws.com/A1elite/DSC04382-Enhanced-NR.jpg" />
             <div className="flex flex-col justify-center items-center mt-6">
               <p className="text-gray-600  text-center  ">
                 <span className="text-xl text-black  uppercase">

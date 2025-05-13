@@ -1,10 +1,9 @@
 import React from "react";
-import image_1 from "../../assets/logoPlay.jpg";
 const FooterTop = () => {
   return (
     <div
       className="relative w-full h-[70vh] bg-no-repeat bg-cover bg-center flex items-center justify-center mt-10"
-      style={{ backgroundImage: `url(${image_1})` }}
+      style={{ backgroundImage: `url(https://globalasset1.s3.us-east-2.amazonaws.com/A1elite/DSC02358-Enhanced-NR.jpg)` }}
     >
       {/* Overlay */}
       <div className="absolute inset-0 bg-black bg-opacity-50 z-0"></div>
