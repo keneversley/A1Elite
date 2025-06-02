@@ -61,20 +61,19 @@ import React from "react";
 
 const Hero = () => {
   return (
-    <div
-      className="relative w-full h-[70vh] flex items-center justify-center bg-black overflow-hidden"
-      style={{
-        backgroundImage: `url(https://globalasset1.s3.us-east-2.amazonaws.com/A1elite/DSC00332-Enhanced-NR.jpg)`,
-        backgroundSize: "cover",
-        backgroundPosition: "top",
-        backgroundRepeat: "no-repeat",
-      }}
-    >
+    <div className="relative w-full h-[70vh] overflow-hidden">
+      {/* Image */}
+      <img
+        src="https://globalasset1.s3.us-east-2.amazonaws.com/A1elite/DSC00332-Enhanced-NR.jpg"
+        alt="Hero Background"
+        className="absolute inset-0 w-full h-full object-cover"
+      />
+
       {/* Overlay */}
       <div className="absolute inset-0 bg-black bg-opacity-50 z-10"></div>
 
       {/* Content */}
-      <div className="relative z-20 text-center text-white px-4 py-10 bg-gray-800 bg-opacity-50 rounded-lg">
+      <div className="relative z-20 flex flex-col items-center justify-center h-full text-center text-white px-4 py-10">
         <h1 className="text-2xl sm:text-3xl md:text-4xl font-bold uppercase leading-tight">
           Train Hard. Play Smart. Win Big.
         </h1>
