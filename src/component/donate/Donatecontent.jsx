@@ -15,7 +15,7 @@ const Donatecontent = () => {
             </p>
             <h1 className="text-2xl uppercase text-orange-50 my-6">DONATE</h1>
             <p>
-              Thank you for your interest in the Bout A Bucket organization. As
+              Thank you for your interest in the A1 ELITE TAMPA  organization. As
               a 501 c3 and AAU affiliated program, we sincerely appreciate any
               monetary offering to aid in supporting the youth and those in
               need. Your kindness can change lives! SUPPORT THE YOUTH

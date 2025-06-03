@@ -12,7 +12,7 @@ const Footer = () => {
       </div>
       <div className="border-t-[1px] border-gray-300  flex justify-center items-center">
         <p className="text-xs text-gray-600 py-6">
-          © 2025, Bout A Bucket Powered by Shopify
+          © 2025, A1 ELITE TAMPA Powered by Shopify
         </p>
       </div>
     </div>

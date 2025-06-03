@@ -1,6 +1,6 @@
 import { useState } from "react";
 import { Link, NavLink } from "react-router-dom";
-import logo from "../assets/Buata.png";
+// import logo from "../assets/Buata.png";
 
 const menus = [
   {
@@ -27,7 +27,13 @@ const Navbar = () => {
         <div className="flex justify-between sm:justify-start sm:gap-20 items-center h-24">
           <div className="flex items-center">
             <Link to="" className="text-xl font-bold text-blue-600">
-              <img className="w-20 h-20" src={logo} alt="" />
+              {/* <img className="w-20 h-20" src={logo} alt="" /> */}
+              <img
+  className="w- h-10"
+  src="https://globalasset1.s3.us-east-2.amazonaws.com/A1elite/VanLogo_FinalUpscale-removebg-preview.png"
+  alt="A1 Elite Logo"
+/>
+
             </Link>
           </div>
           <div className="hidden md:flex space-x-6 uppercase">

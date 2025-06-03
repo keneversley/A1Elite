@@ -13,7 +13,7 @@ const About = () => {
           </h1>
           <p className="text-gray-600 text-sm text-center">
             Bout A Bucket is a family-run grassroots travel basketball program
-            founded in 2024. Bout A Bucket offers national and regional
+            founded in 2024. A1 ELITE TAMPA  offers national and regional
             basketball teams for Boys 8U - 17U and Girls 14U - 17U. We also have
             summer camps, training and development programs, and fall and winter
             league teams.
@@ -25,7 +25,7 @@ const About = () => {
             FOUNDER
           </h1>
           <p className="text-gray-600 text-sm text-center">
-            Bout A Bucket was founded by Damari Parris, a former division 1
+            A1 ELITE TAMPA  was founded by Damari Parris, a former division 1
             basketball player at Western Kentucky, Eastern Michigan & Prairie
             View A & M. He has played against and with top NBA players and
             collegiate athletes, and his most notable performance was scoring 40
@@ -38,7 +38,7 @@ const About = () => {
             WE ARE HERE
           </h1>
           <p className="text-gray-600 text-sm text-center">
-            Bout A Bucket is an AAU affiliated non-profit organization servicing
+           A1 ELITE TAMPA  is an AAU affiliated non-profit organization servicing
             Charlotte, North Carolina and the surrounding areas. Tournaments are
             held locally and mostly on the East Coast and surrounding cities.
           </p>

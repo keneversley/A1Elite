@@ -21,7 +21,7 @@ const Shedule = () => {
                 nxtpro puma <br />
                 circuit shedule!
               </h1>
-              <h2 className="text-black text-2xl">Bout a bucket</h2>
+              <h2 className="text-black text-2xl">A1 ELITE TAMPA </h2>
               <h3 className="text-white text-xl">high school</h3>
               <p className="text-white text-xl">
                 march 28th,boston,ma <br />
@@ -45,7 +45,7 @@ const Shedule = () => {
                 nxtpro puma <br />
                 circuit shedule!
               </h1>
-              <h2 className="text-black text-2xl">Bout a bucket</h2>
+              <h2 className="text-black text-2xl">A1 ELITE TAMPA </h2>
               <h3 className="text-white text-xl">high school</h3>
               <p className="text-white text-2xl">
                 april 18th-20th, tampa fl <br />

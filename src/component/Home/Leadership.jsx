@@ -78,111 +78,149 @@ const Leadership = () => {
         <div className="grid grid-cols-1 sm:grid-cols-2 md:grid-cols-3 lg:grid-cols-4 gap-6 mt-4">
           {/* 1 */}
           <div className="bg-gray-200 rounded-lg p-4">
-            <img src="https://globalasset1.s3.us-east-2.amazonaws.com/A1elite/DSC02272-Enhanced-NR.jpg" />
-            <div className="flex flex-col justify-center items-center mt-6">
-              <p className="text-gray-600 text-center">
-                <span className="text-xl text-black uppercase">DAMARI PARRIS-</span><br />
-                President, Lead Coach
-              </p>
-              <p className="text-center text-gray-600 text-sm mt-4">
-                Damari's D1 basketball journey is the epitome of resilience and determination...
-              </p>
-            </div>
-          </div>
+  <img 
+    src="https://globalasset1.s3.us-east-2.amazonaws.com/A1elite/coach+with+fro.jpg" 
+    className="w-full h-96 object-cover rounded"
+    alt="Coach Damari Parris"
+  />
+  <div className="flex flex-col justify-center items-center mt-6">
+    <p className="text-gray-600 text-center">
+      <span className="text-xl text-black uppercase">DAMARI PARRIS-</span><br />
+      President, Lead Coach
+    </p>
+    <p className="text-center text-gray-600 text-sm mt-4">
+      Damari's D1 basketball journey is the epitome of resilience and determination...
+    </p>
+  </div>
+</div>
+
 
           {/* 2 */}
           <div className="bg-gray-200 rounded-lg p-4">
-            <img src="https://globalasset1.s3.us-east-2.amazonaws.com/A1elite/DSC03296-Enhanced-NR.jpg" />
-            <div className="flex flex-col justify-center items-center mt-6">
-              <p className="text-gray-600 text-center">
-                <span className="text-xl text-black uppercase">KAOS PARRIS-</span><br />
-                Vice President & Treasurer
-              </p>
-              <p className="text-center text-gray-600 text-sm mt-4">
-                Coach K is the patriarch of the Parris Family...
-              </p>
-            </div>
-          </div>
+  <img 
+    src="https://globalasset1.s3.us-east-2.amazonaws.com/A1elite/coach+with+durag.jpg" 
+    className="w-full h-96 object-cover rounded"
+    alt="Coach Kaos Parris"
+  />
+  <div className="flex flex-col justify-center items-center mt-6">
+    <p className="text-gray-600 text-center">
+      <span className="text-xl text-black uppercase">KAOS PARRIS-</span><br />
+      Vice President & Treasurer
+    </p>
+    <p className="text-center text-gray-600 text-sm mt-4">
+      Coach K is the patriarch of the Parris Family...
+    </p>
+  </div>
+</div>
+
 
           {/* 3 */}
           <div className="bg-gray-200 rounded-lg p-4">
-            <img src="https://globalasset1.s3.us-east-2.amazonaws.com/A1elite/DSC04382-Enhanced-NR.jpg" />
-            <div className="flex flex-col justify-center items-center mt-6">
-              <p className="text-gray-600 text-center">
-                <span className="text-xl text-black uppercase">DAMANI PARRIS-</span><br />
-                Executive Director, Head Coach
-              </p>
-              <p className="text-center text-gray-600 text-sm mt-4">
-                Coach Mani possesses a seasoned basketball mind...
-              </p>
-            </div>
-          </div>
+  <img 
+    src="https://globalasset1.s3.us-east-2.amazonaws.com/A1elite/coach+with+ball+2.jpg" 
+    className="w-full h-96 object-cover rounded"
+    alt="Coach Damani Parris"
+  />
+  <div className="flex flex-col justify-center items-center mt-6">
+    <p className="text-gray-600 text-center">
+      <span className="text-xl text-black uppercase">DAMANI PARRIS-</span><br />
+      Executive Director, Head Coach
+    </p>
+    <p className="text-center text-gray-600 text-sm mt-4">
+      Coach Mani possesses a seasoned basketball mind...
+    </p>
+  </div>
+</div>
+
 
           {/* 4-8 Placeholders */}
-          <div className="bg-gray-200 rounded-lg p-4">
-             <img src="https://globalasset1.s3.us-east-2.amazonaws.com/A1elite/DSC04382-Enhanced-NR.jpg" />
-            <div className="flex flex-col justify-center items-center mt-6">
-              <p className="text-gray-600 text-center">
-                <span className="text-xl text-black uppercase">NAME FOUR-</span><br />
-                Title
-              </p>
-              <p className="text-center text-gray-600 text-sm mt-4">
-                Short bio or role description goes here.
-              </p>
-            </div>
-          </div>
+      <div className="bg-gray-200 rounded-lg p-4">
+  <img 
+    src="https://globalasset1.s3.us-east-2.amazonaws.com/A1elite/coach+talking.jpg" 
+    className="w-full h-96 object-cover rounded"
+    alt="Coach Name Four"
+  />
+  <div className="flex flex-col justify-center items-center mt-6">
+    <p className="text-gray-600 text-center">
+      <span className="text-xl text-black uppercase">NAME FOUR-</span><br />
+      Title
+    </p>
+    <p className="text-center text-gray-600 text-sm mt-4">
+      Short bio or role description goes here.
+    </p>
+  </div>
+</div>
+<div className="bg-gray-200 rounded-lg p-4">
+  <img 
+    src="https://globalasset1.s3.us-east-2.amazonaws.com/A1elite/coach+talking.jpg" 
+    className="w-full h-96 object-cover rounded"
+    alt="Coach Name Four"
+  />
+  <div className="flex flex-col justify-center items-center mt-6">
+    <p className="text-gray-600 text-center">
+      <span className="text-xl text-black uppercase">NAME FIVE-</span><br />
+      Title
+    </p>
+    <p className="text-center text-gray-600 text-sm mt-4">
+      Short bio or role description goes here.
+    </p>
+  </div>
+</div>
 
-          <div className="bg-gray-200 rounded-lg p-4">
-            <img src="https://globalasset1.s3.us-east-2.amazonaws.com/A1elite/DSC04382-Enhanced-NR.jpg" />
-            <div className="flex flex-col justify-center items-center mt-6">
-              <p className="text-gray-600 text-center">
-                <span className="text-xl text-black uppercase">NAME FIVE-</span><br />
-                Title
-              </p>
-              <p className="text-center text-gray-600 text-sm mt-4">
-                Short bio or role description goes here.
-              </p>
-            </div>
-          </div>
 
-          <div className="bg-gray-200 rounded-lg p-4">
-            <img src="https://globalasset1.s3.us-east-2.amazonaws.com/A1elite/DSC04382-Enhanced-NR.jpg" />
-            <div className="flex flex-col justify-center items-center mt-6">
-              <p className="text-gray-600 text-center">
-                <span className="text-xl text-black uppercase">NAME SIX-</span><br />
-                Title
-              </p>
-              <p className="text-center text-gray-600 text-sm mt-4">
-                Short bio or role description goes here.
-              </p>
-            </div>
-          </div>
+         <div className="bg-gray-200 rounded-lg p-4">
+  <img 
+    src="https://globalasset1.s3.us-east-2.amazonaws.com/A1elite/coach+talking.jpg" 
+    className="w-full h-96 object-cover rounded"
+    alt="Coach Name Four"
+  />
+  <div className="flex flex-col justify-center items-center mt-6">
+    <p className="text-gray-600 text-center">
+      <span className="text-xl text-black uppercase">NAME SIX-</span><br />
+      Title
+    </p>
+    <p className="text-center text-gray-600 text-sm mt-4">
+      Short bio or role description goes here.
+    </p>
+  </div>
+</div>
 
-          <div className="bg-gray-200 rounded-lg p-4">
-            <img src="https://globalasset1.s3.us-east-2.amazonaws.com/A1elite/DSC04382-Enhanced-NR.jpg" />
-            <div className="flex flex-col justify-center items-center mt-6">
-              <p className="text-gray-600 text-center">
-                <span className="text-xl text-black uppercase">NAME SEVEN-</span><br />
-                Title
-              </p>
-              <p className="text-center text-gray-600 text-sm mt-4">
-                Short bio or role description goes here.
-              </p>
-            </div>
-          </div>
 
-          <div className="bg-gray-200 rounded-lg p-4">
-            <img src="https://globalasset1.s3.us-east-2.amazonaws.com/A1elite/DSC04382-Enhanced-NR.jpg" />
-            <div className="flex flex-col justify-center items-center mt-6">
-              <p className="text-gray-600 text-center">
-                <span className="text-xl text-black uppercase">NAME EIGHT-</span><br />
-                Title
-              </p>
-              <p className="text-center text-gray-600 text-sm mt-4">
-                Short bio or role description goes here.
-              </p>
-            </div>
-          </div>
+       <div className="bg-gray-200 rounded-lg p-4">
+  <img 
+    src="https://globalasset1.s3.us-east-2.amazonaws.com/A1elite/coach+talking.jpg" 
+    className="w-full h-96 object-cover rounded"
+    alt="Coach Name Four"
+  />
+  <div className="flex flex-col justify-center items-center mt-6">
+    <p className="text-gray-600 text-center">
+      <span className="text-xl text-black uppercase">NAME SEVEN-</span><br />
+      Title
+    </p>
+    <p className="text-center text-gray-600 text-sm mt-4">
+      Short bio or role description goes here.
+    </p>
+  </div>
+</div>
+
+
+       <div className="bg-gray-200 rounded-lg p-4">
+  <img 
+    src="https://globalasset1.s3.us-east-2.amazonaws.com/A1elite/coach+talking.jpg" 
+    className="w-full h-96 object-cover rounded"
+    alt="Coach Name Four"
+  />
+  <div className="flex flex-col justify-center items-center mt-6">
+    <p className="text-gray-600 text-center">
+      <span className="text-xl text-black uppercase">NAME EIGHT-</span><br />
+      Title
+    </p>
+    <p className="text-center text-gray-600 text-sm mt-4">
+      Short bio or role description goes here.
+    </p>
+  </div>
+</div>
+
         </div>
       </div>
     </div>
