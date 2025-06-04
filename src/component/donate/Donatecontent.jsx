@@ -33,16 +33,17 @@ const Donatecontent = () => {
           </div>
         </div>
         <div className="flex w-full flex-col md:flex-row-reverse mt-4 bg-black">
-          <div className="flex-1">
-            <img className="w-full " src={player} alt="" />
-          </div>
           {/* <div className="flex-1">
+            <img className="w-full " src={player} alt="" />
+          </div> */}
+          <div className="flex-1">
   <img
     className="w-full"
-    src="https://globalasset1.s3.us-east-2.amazonaws.com/A1elite/donate.jpeg"
+    src="https://globalasset1.s3.us-east-2.amazonaws.com/A1elite/Donate+2.jpeg"
     alt="Donate"
   />
-</div> */}
+</div>
+
           <div className="flex-1  text-xs text-gray-300 p-10">
             <p className="">COMMUNITY INVOLVEMENT</p>
             <h1 className="text-2xl uppercase text-orange-50 my-6">
