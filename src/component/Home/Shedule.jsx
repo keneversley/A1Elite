@@ -3,11 +3,11 @@ import greenBg from "../../assets/greenbg.jpg";
 import skyBg from "../../assets/skybg.jpg";
 const Shedule = () => {
   return (
-    <div className="bg-green-800 w-full mx-auto flex  justify-center items-center py-20 px-2">
+    <div className="-800 w-full mx-auto flex  justify-center items-center py-20 px-2">
       <div className="max-w-5xl mx-auto">
-        <h1 className="text-neutral-100 text-4xl font-bold">
-          2025 NXTPRO PUMA CIRCUIT SCHEDULE
-        </h1>
+  <h1 className="text-black text-4xl font-bold text-center">
+  2025 CIRCUIT SCHEDULE
+</h1>
         <div className=" flex gap-10 flex-col md:flex-row mt-6">
           <div
             className="relative w-full h-[70vh] bg-no-repeat bg-cover bg-center flex items-center justify-center"
@@ -21,7 +21,7 @@ const Shedule = () => {
                 nxtpro puma <br />
                 circuit shedule!
               </h1>
-              <h2 className="text-black text-2xl">A1 ELITE TAMPA </h2>
+              <h2 className="text-white text-2xl">A1 ELITE TAMPA </h2>
               <h3 className="text-white text-xl">high school</h3>
               <p className="text-white text-xl">
                 march 28th,boston,ma <br />

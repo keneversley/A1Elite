@@ -5,14 +5,13 @@ const BlackBanner = () => {
     <div className="bg-black w-full mx-auto p-2 py-20">
       <div className="max-w-6xl mx-auto flex flex-col justify-center items-center">
         <h1 className="text-orange-100 font-semibold  uppercase italic text-center">
-          A1 ELITE TAMPA  IS DEDICATED TO DEVELOPING STUDENT-ATHLETES ON AND OFF{" "}
+          A1 Elite Tampa is committed to nurturing student-athletes both in the game and in life,{" "}
           <br />
-          THE COURT, AND FOSTERING A FAMILY-ORIENTED ENVIRONMENT.
+         while creating a supportive, family-like atmosphere.
         </h1>
         <h1 className="text-orange-100 font-semibold  uppercase italic text-center mt-6">
-          THE ORGANIZATION AIMS TO PROVIDE OPPORTUNITIES FOR YOUTH THROUGH
-          BASKETBALL, <br /> EMPHASIZING EDUCATION, CHARACTER DEVELOPMENT, AND
-          COMMUNITY ENGAGEMENT.
+          Through the game of basketball, the program seeks to open doors for youth
+           <br /> with a strong focus on academics, personal growth, and active involvement in the community.
         </h1>
       </div>
     </div>
