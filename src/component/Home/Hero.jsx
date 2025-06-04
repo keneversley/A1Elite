@@ -25,34 +25,67 @@
 // };
 // export default Hero;
 // 
+// import React from "react";
+
+// const Hero = () => {
+//   return (
+//  <div
+ 
+//     className="w-full h-screen bg-black flex items-center justify-center"
+//   style={{
+//     backgroundImage: `url(https://globalasset1.s3.us-east-2.amazonaws.com/A1elite/back.png)`,
+//     backgroundSize: "cover", // changed from "contain"
+//     backgroundPosition: "center",
+//     backgroundRepeat: "no-repeat",
+//   }}
+  
+// >
+//   <div className="bg-black bg-opacity-50 absolute inset-0 z-10" />
+//   <div className="relative z-20 text-white text-center px-4 py-10">
+//     <h1 className="text-2xl sm:text-3xl md:text-4xl font-bold uppercase leading-tight">
+//       PLAY HARD. PLAY TOGETHER. A1!
+//     </h1>
+//     <button className="mt-6 bg-black hover:bg-[#2d190b] text-white font-medium px-6 py-3 uppercase tracking-wider text-sm sm:text-base">
+//       Donate To The Youth
+//     </button>
+//   </div>
+// </div>
+//   );
+// };
+
+// export default Hero;
+
 import React from "react";
 
 const Hero = () => {
   return (
- <div
- 
-    className="w-full h-screen bg-black flex items-center justify-center"
-  style={{
-    backgroundImage: `url(https://globalasset1.s3.us-east-2.amazonaws.com/A1elite/back.png)`,
-    backgroundSize: "cover", // changed from "contain"
-    backgroundPosition: "center",
-    backgroundRepeat: "no-repeat",
-  }}
->
-  <div className="bg-black bg-opacity-50 absolute inset-0 z-10" />
-  <div className="relative z-20 text-white text-center px-4 py-10">
-    <h1 className="text-2xl sm:text-3xl md:text-4xl font-bold uppercase leading-tight">
-      PLAY HARD. PLAY TOGETHER. A1!
-    </h1>
-    <button className="mt-6 bg-black hover:bg-[#2d190b] text-white font-medium px-6 py-3 uppercase tracking-wider text-sm sm:text-base">
-      Donate To The Youth
-    </button>
-  </div>
-</div>
+    <div
+      className="w-full h-screen bg-black flex items-center justify-center relative"
+      style={{
+        backgroundImage: `url(https://globalasset1.s3.us-east-2.amazonaws.com/A1elite/back.png)`,
+        backgroundSize: "cover",
+        backgroundPosition: "center",
+        backgroundRepeat: "no-repeat",
+      }}
+    >
+      {/* Dark overlay */}
+      <div className="absolute inset-0 bg-black bg-opacity-50 z-10" />
+
+      {/* Content */}
+      <div className="relative z-20 text-white text-center px-4 py-10">
+        <h1 className="text-2xl sm:text-3xl md:text-4xl font-bold uppercase leading-tight">
+          PLAY HARD. PLAY TOGETHER. A1!
+        </h1>
+        <button className="mt-6 bg-black hover:bg-[#2d190b] text-white font-medium px-6 py-3 uppercase tracking-wider text-sm sm:text-base">
+          Donate To The Youth
+        </button>
+      </div>
+    </div>
   );
 };
 
 export default Hero;
+
 
 
 

@@ -9,7 +9,7 @@ const FooterTop = () => {
       <div className="absolute inset-0 bg-black bg-opacity-50 z-0"></div>
 
       {/* Content */}
-      <div className=" max-w-4xl mx-auto relative z-10 bg-gray-800 text-center text-white p-6 rounded-lg space-y-2 py-10">
+      <div className=" max-w-4xl mx-auto relative z-10 bg-purple-800 text-center text-white p-6 rounded-lg space-y-2 py-10">
         <h1 className="text-4xl md:text-3xl font-bold mb-4 uppercase">
           ARE YOU A1 ELITE TAMPA  CERTIFIED?
         </h1>
@@ -19,7 +19,7 @@ const FooterTop = () => {
           our 2nd year, we have proudly partnered with PUMA Hoops and compete
           nationally on the NXTPRO Puma Circuit.
         </p>
-        <button className="bg-[#F97316] hover:bg-[#e2792d] text-white font-medium px-6 py-3 uppercase tracking-wider">
+        <button className="bg-black hover:bg-[#1b0f07] text-white font-medium px-6 py-3 uppercase tracking-wider">
           Contact us now to learn more!
         </button>
       </div>
