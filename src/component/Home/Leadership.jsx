@@ -152,7 +152,7 @@ const Leadership = () => {
 </div>
 <div className="bg-gray-200 rounded-lg p-4">
   <img 
-    src="https://globalasset1.s3.us-east-2.amazonaws.com/A1elite/gavin2.jpeg" 
+    src="https://globalasset1.s3.us-east-2.amazonaws.com/A1elite/GAVIN.jpeg" 
     className="w-full h-96 object-cover rounded"
     alt="Coach Name Four"
   />
