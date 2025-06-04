@@ -85,8 +85,8 @@ const Leadership = () => {
   />
   <div className="flex flex-col justify-center items-center mt-6">
     <p className="text-gray-600 text-center">
-      <span className="text-xl text-black uppercase">DAMARI PARRIS-</span><br />
-      President, Lead Coach
+      <span className="text-xl text-black uppercase">NELSON AGHOLOR-</span><br />
+      Founder, Head Coach
     </p>
     <p className="text-center text-gray-600 text-sm mt-4">
       Damari's D1 basketball journey is the epitome of resilience and determination...
@@ -104,8 +104,8 @@ const Leadership = () => {
   />
   <div className="flex flex-col justify-center items-center mt-6">
     <p className="text-gray-600 text-center">
-      <span className="text-xl text-black uppercase">KAOS PARRIS-</span><br />
-      Vice President & Treasurer
+      <span className="text-xl text-black uppercase">FRANK AGHOLOR-</span><br />
+      Head Coach 
     </p>
     <p className="text-center text-gray-600 text-sm mt-4">
       Coach K is the patriarch of the Parris Family...
@@ -117,14 +117,14 @@ const Leadership = () => {
           {/* 3 */}
           <div className="bg-gray-200 rounded-lg p-4">
   <img 
-    src="https://globalasset1.s3.us-east-2.amazonaws.com/A1elite/coach+with+ball+2.jpg" 
+    src="https://globalasset1.s3.us-east-2.amazonaws.com/A1elite/3RD+2+PATCRICK.jpeg" 
     className="w-full h-96 object-cover rounded"
     alt="Coach Damani Parris"
   />
   <div className="flex flex-col justify-center items-center mt-6">
     <p className="text-gray-600 text-center">
-      <span className="text-xl text-black uppercase">DAMANI PARRIS-</span><br />
-      Executive Director, Head Coach
+      <span className="text-xl text-black uppercase">PATRICK RASTATTER-</span><br />
+       Head Coach
     </p>
     <p className="text-center text-gray-600 text-sm mt-4">
       Coach Mani possesses a seasoned basketball mind...
@@ -136,14 +136,14 @@ const Leadership = () => {
           {/* 4-8 Placeholders */}
       <div className="bg-gray-200 rounded-lg p-4">
   <img 
-    src="https://globalasset1.s3.us-east-2.amazonaws.com/A1elite/coach+talking.jpg" 
+    src="https://globalasset1.s3.us-east-2.amazonaws.com/A1elite/coach+with+ball+2.jpg" 
     className="w-full h-96 object-cover rounded"
     alt="Coach Name Four"
   />
   <div className="flex flex-col justify-center items-center mt-6">
     <p className="text-gray-600 text-center">
-      <span className="text-xl text-black uppercase">NAME FOUR-</span><br />
-      Title
+      <span className="text-xl text-black uppercase">STEVE ANDREWS-</span><br />
+      Head Coach
     </p>
     <p className="text-center text-gray-600 text-sm mt-4">
       Short bio or role description goes here.
@@ -152,14 +152,14 @@ const Leadership = () => {
 </div>
 <div className="bg-gray-200 rounded-lg p-4">
   <img 
-    src="https://globalasset1.s3.us-east-2.amazonaws.com/A1elite/coach+talking.jpg" 
+    src="https://globalasset1.s3.us-east-2.amazonaws.com/A1elite/GAVIN.jpeg" 
     className="w-full h-96 object-cover rounded"
     alt="Coach Name Four"
   />
   <div className="flex flex-col justify-center items-center mt-6">
     <p className="text-gray-600 text-center">
-      <span className="text-xl text-black uppercase">NAME FIVE-</span><br />
-      Title
+      <span className="text-xl text-black uppercase">GAVIN STWERART-</span><br />
+      Assistant Coach
     </p>
     <p className="text-center text-gray-600 text-sm mt-4">
       Short bio or role description goes here.
@@ -176,8 +176,8 @@ const Leadership = () => {
   />
   <div className="flex flex-col justify-center items-center mt-6">
     <p className="text-gray-600 text-center">
-      <span className="text-xl text-black uppercase">NAME SIX-</span><br />
-      Title
+      <span className="text-xl text-black uppercase">SOLOMON JONES-</span><br />
+       Assistant Coach
     </p>
     <p className="text-center text-gray-600 text-sm mt-4">
       Short bio or role description goes here.
@@ -188,14 +188,14 @@ const Leadership = () => {
 
        <div className="bg-gray-200 rounded-lg p-4">
   <img 
-    src="https://globalasset1.s3.us-east-2.amazonaws.com/A1elite/coach+talking.jpg" 
+    src="https://globalasset1.s3.us-east-2.amazonaws.com/A1elite/coach+with+fro.jpg" 
     className="w-full h-96 object-cover rounded"
     alt="Coach Name Four"
   />
   <div className="flex flex-col justify-center items-center mt-6">
     <p className="text-gray-600 text-center">
-      <span className="text-xl text-black uppercase">NAME SEVEN-</span><br />
-      Title
+      <span className="text-xl text-black uppercase">ANTHONY JOHNSON-</span><br />
+       Assistant Coach
     </p>
     <p className="text-center text-gray-600 text-sm mt-4">
       Short bio or role description goes here.
@@ -206,7 +206,7 @@ const Leadership = () => {
 
        <div className="bg-gray-200 rounded-lg p-4">
   <img 
-    src="https://globalasset1.s3.us-east-2.amazonaws.com/A1elite/coach+talking.jpg" 
+    src="https://globalasset1.s3.us-east-2.amazonaws.com/A1elite/coach+with+fro.jpg" 
     className="w-full h-96 object-cover rounded"
     alt="Coach Name Four"
   />
