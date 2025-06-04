@@ -30,13 +30,7 @@ import React from "react";
 const Hero = () => {
   return (
  <div
-  // className="w-full h-screen bg-black flex items-center justify-center"
-  // style={{
-  //   backgroundImage: `url(https://globalasset1.s3.us-east-2.amazonaws.com/A1elite/gavin+coaching.jpg)`,
-  //   backgroundSize: "contain",
-  //   backgroundPosition: "center",
-  //   backgroundRepeat: "no-repeat",
-  // }}
+ 
     className="w-full h-screen bg-black flex items-center justify-center"
   style={{
     backgroundImage: `url(https://globalasset1.s3.us-east-2.amazonaws.com/A1elite/back.png)`,
@@ -50,7 +44,7 @@ const Hero = () => {
     <h1 className="text-2xl sm:text-3xl md:text-4xl font-bold uppercase leading-tight">
       PLAY HARD. PLAY TOGETHER. A1!
     </h1>
-    <button className="mt-6 bg-[#F97316] hover:bg-[#e2792d] text-white font-medium px-6 py-3 uppercase tracking-wider text-sm sm:text-base">
+    <button className="mt-6 bg-black hover:bg-[#2d190b] text-white font-medium px-6 py-3 uppercase tracking-wider text-sm sm:text-base">
       Donate To The Youth
     </button>
   </div>

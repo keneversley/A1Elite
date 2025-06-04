@@ -39,7 +39,7 @@ const Donatecontent = () => {
               at our high-profile tournaments to ensure maximum exposure.
               Sponsorship benefits include logo placement, recognition, VIP
               access, outreach initiates & more. Please email
-              boutabucketbball@gmail.com to receive sponsorship packages.
+              Ourkidsourresponsibility@gmail.com to receive sponsorship packages.
             </p>
             <button className="bg-[#F97316] mt-6  hover:bg-[#e2792d] text-white font-medium px-6 py-3 uppercase tracking-wider">
               Contact US
