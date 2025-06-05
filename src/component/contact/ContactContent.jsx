@@ -19,7 +19,7 @@ const ContactContent = () => {
           </p>
           <p>For all other inquires, please complete the form below.</p>
           <button className="bg-[#0c0703] mt-6 hover:bg-[#25150a] text-xs text-white font-medium px-6 py-3 uppercase tracking-wider">
-            Learn How You Can Support A1 ELITE TAMPA . Click Here!
+            Learn How You Can Support A1 ELITE TAMPA 
           </button>
         </div>
       </div>
