@@ -76,9 +76,14 @@ const Hero = () => {
         <h1 className="text-2xl sm:text-3xl md:text-4xl font-bold uppercase leading-tight">
           PLAY HARD. PLAY TOGETHER. A1!
         </h1>
-        <button className="mt-6 bg-black hover:bg-[#2d190b] text-white font-medium px-6 py-3 uppercase tracking-wider text-sm sm:text-base">
+        {/* <button className="mt-6 bg-black hover:bg-[#2d190b] text-white font-medium px-6 py-3 uppercase tracking-wider text-sm sm:text-base">
           Donate To The Youth
-        </button>
+        </button> */}
+        <a href="https://ourkidsourresponsibility.org/" target="_blank" rel="noopener noreferrer">
+  <button className="mt-6 bg-black hover:bg-[#2d190b] text-white font-medium px-6 py-3 uppercase tracking-wider text-sm sm:text-base">
+    Donate To The Youth
+  </button>
+</a>
       </div>
     </div>
   );

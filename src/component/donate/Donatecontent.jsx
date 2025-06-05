@@ -27,9 +27,14 @@ const Donatecontent = () => {
               monetary offering to aid in supporting the youth and those in
               need. Your kindness can change lives! SUPPORT THE YOUTH
             </p>
-            <button className="bg-[#F97316] mt-6 hover:bg-[#e2792d] text-white font-medium px-6 py-3 uppercase tracking-wider">
+            {/* <button className="bg-[#F97316] mt-6 hover:bg-[#e2792d] text-white font-medium px-6 py-3 uppercase tracking-wider">
               Support The Youth
-            </button>
+            </button> */}
+            <a href="https://ourkidsourresponsibility.org/" target="_blank" rel="noopener noreferrer">
+  <button className="bg-[#F97316] mt-6 hover:bg-[#e2792d] text-white font-medium px-6 py-3 uppercase tracking-wider">
+    Support The Youth
+  </button>
+</a>
           </div>
         </div>
         <div className="flex w-full flex-col md:flex-row-reverse mt-4 bg-black">
@@ -56,9 +61,15 @@ const Donatecontent = () => {
               access, outreach initiates & more. Please email
               Ourkidsourresponsibility@gmail.com to receive sponsorship packages.
             </p>
-            <button className="bg-[#F97316] mt-6  hover:bg-[#e2792d] text-white font-medium px-6 py-3 uppercase tracking-wider">
+            {/* <button className="bg-[#F97316] mt-6  hover:bg-[#e2792d] text-white font-medium px-6 py-3 uppercase tracking-wider">
               Contact US
-            </button>
+            </button> */}
+            <a
+  href="mailto:Ourkidsourresponsibility@gmail.com"
+  className="inline-block bg-[#F97316] mt-6 hover:bg-[#e2792d] text-white font-medium px-6 py-3 uppercase tracking-wider"
+>
+  Contact US
+</a>
           </div>
         </div>
       </div>

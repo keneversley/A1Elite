@@ -19,9 +19,16 @@ const FooterTop = () => {
           our 2nd year, we have proudly partnered with PUMA Hoops and compete
           nationally on the NXTPRO Puma Circuit.
         </p>
-        <button className="bg-black hover:bg-[#1b0f07] text-white font-medium px-6 py-3 uppercase tracking-wider">
+        {/* <button className="bg-black hover:bg-[#1b0f07] text-white font-medium px-6 py-3 uppercase tracking-wider">
           Contact us now to learn more!
-        </button>
+        </button> */}
+        <a
+  href="mailto:Ourkidsourresponsibility@gmail.com"
+  className="inline-block bg-black hover:bg-[#1b0f07] text-white font-medium px-6 py-3 uppercase tracking-wider"
+>
+  Contact us now to learn more!
+</a>
+
       </div>
     </div>
   );
