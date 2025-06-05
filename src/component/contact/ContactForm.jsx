@@ -239,7 +239,7 @@ const ContactForm = () => {
 
     window.location.href = `mailto:Ourkidsourresponsibility@gmail.com?subject=${subject}&body=${body}`;
 
-    setSuccessMessage("Success! Your email client should open now.");
+    setSuccessMessage("Success! Your email was sent.");
 
     // Clear the form inputs
     reset();
